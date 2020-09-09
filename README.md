@@ -10,7 +10,7 @@ Learning outcomes
 This project allows to get a taste of Java. Practice working with classes, challenge yourself with loops and conditions, and get more confident in Java.
 
 Result will look like
-![]output_demonstration.mp4
+![](output_demonstration.mp4)
 
 STAGE 1 “HELLO, COFFEE
 
