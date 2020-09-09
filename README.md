@@ -10,7 +10,8 @@ Learning outcomes
 This project allows to get a taste of Java. Practice working with classes, challenge yourself with loops and conditions, and get more confident in Java.
 
 Result will look like
-![](output_demonstration.mp4)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/54708825/92618318-12e03380-f275-11ea-90f9-d34ad23320ae.gif)
+
 
 STAGE 1 “HELLO, COFFEE
 
