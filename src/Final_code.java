@@ -1,5 +1,5 @@
 import java.util.*;
-public class Brush_up {
+public class Final_code {
     static int water = 400;
     static int milk = 540;
     static int beans = 120;
