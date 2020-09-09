@@ -9,6 +9,9 @@ Learning outcomes
 
 This project allows to get a taste of Java. Practice working with classes, challenge yourself with loops and conditions, and get more confident in Java.
 
+Result will look like
+![]output_demonstration.mp4
+
 STAGE 1 “HELLO, COFFEE
 
 A program that puts basic information on the screen: give the machine a chance to tell the customers what it’s doing!
